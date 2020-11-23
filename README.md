@@ -1,0 +1,1 @@
+This is a Python implementation of the linear regression model for the dataset in Programming assignment Ex1 covered in Andrew Ng's Machine Learning course on Coursera, to implement gradient descent and optimize parameters and compute minimum cost.
